@@ -1,1 +1,1 @@
-print("Hello AM")
+print("Hello MA")
